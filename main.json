@@ -2,11 +2,11 @@
   "Status": [
     {
       "isLive": true,
-      "isWorking": true,
-      "showAdsTV": true,
+      "isWorking": false,
+      "showAdsTV": false,
       "showAdsMobile": true,
-      "Message": "ΝΕΑ ΕΝΗΜΕΡΩΣΗ ΔΙΑΘΕΣΙΜΗ: v4.3\nΠαρακαλούμε ενημερώστε την εφαρμογή μέσω του Google Play Store, προκειμένου να συνεχίσετε να απολαμβάνετε νέο υλικό!",
-      "Version": "4.3" 
+      "Message": "ΝΕΑ ΕΝΗΜΕΡΩΣΗ ΔΙΑΘΕΣΙΜΗ: v4.4\nΠαρακαλούμε ενημερώστε την εφαρμογή μέσω του Google Play Store, προκειμένου να συνεχίσετε να απολαμβάνετε νέο υλικό!",
+      "Version": "4.4"
     }
   ],
   "Rating": [
