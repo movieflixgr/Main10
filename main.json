@@ -3,6 +3,8 @@
     {
       "isLive": true,
       "isWorking": true,
+      "isWorkingTV": false,
+      "isWorkingMobile": false,
       "showAdsTV": false,
       "showAdsMobile": true,
       "Message": "ΝΕΑ ΕΝΗΜΕΡΩΣΗ ΔΙΑΘΕΣΙΜΗ: v4.6\nΠαρακαλούμε ενημερώστε την εφαρμογή μέσω του Google Play Store, προκειμένου να συνεχίσετε να απολαμβάνετε νέο υλικό!",
