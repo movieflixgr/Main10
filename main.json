@@ -3,7 +3,7 @@
     {
       "isLive": true,
       "isWorking": true, 
-      "isTest": "false",
+      "isTest": true,
       "isLiveMobile": true, 
       "isWorkingMobile": true,
       "showAdsMobile": true,
