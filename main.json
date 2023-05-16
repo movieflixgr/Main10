@@ -2,9 +2,9 @@
   "Status": [
     {
       "isLive": true,
-      "isWorking": true,
+      "isWorking": false, 
       "isWorkingTV": false,
-      "isWorkingMobile": false,
+      "isWorkingMobile": true,
       "showAdsTV": false,
       "showAdsMobile": true,
       "Message": "ΝΕΑ ΕΝΗΜΕΡΩΣΗ ΔΙΑΘΕΣΙΜΗ: v4.6\nΠαρακαλούμε ενημερώστε την εφαρμογή μέσω του Google Play Store, προκειμένου να συνεχίσετε να απολαμβάνετε νέο υλικό!",
