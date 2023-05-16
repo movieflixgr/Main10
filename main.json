@@ -2,13 +2,13 @@
   "Status": [
     {
       "isLive": true,
-      "isLiveMobile": false,
-      "isLiveTV": true,
       "isWorking": false, 
-      "isWorkingTV": false,
+      "isLiveMobile": false,
       "isWorkingMobile": true,
-      "showAdsTV": false,
       "showAdsMobile": true,
+      "isLiveTV": true,
+      "isWorkingTV": false,
+      "showAdsTV": false,
       "Message": "ΝΕΑ ΕΝΗΜΕΡΩΣΗ ΔΙΑΘΕΣΙΜΗ: v4.7\nΠαρακαλούμε ενημερώστε την εφαρμογή μέσω του Google Play Store, προκειμένου να συνεχίσετε να απολαμβάνετε νέο υλικό!",
       "Version": "4.7"
     }
