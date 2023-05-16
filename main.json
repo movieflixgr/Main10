@@ -2,8 +2,8 @@
   "Status": [
     {
       "isLive": true,
-      "isWorking": false, 
-      "isLiveMobile": false,
+      "isWorking": true, 
+      "isLiveMobile": true, 
       "isWorkingMobile": true,
       "showAdsMobile": true,
       "isLiveTV": true,
