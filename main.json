@@ -3,15 +3,15 @@
     {
       "isLive": true,
       "isWorking": true, 
-      "isTest": true,
+      "isTest": false,
       "isLiveMobile": true, 
       "isWorkingMobile": true,
       "showAdsMobile": true,
       "isLiveTV": true,
-      "isWorkingTV": false,
+      "isWorkingTV": true,
       "showAdsTV": false,
       "Message": "ΝΕΑ ΕΝΗΜΕΡΩΣΗ ΔΙΑΘΕΣΙΜΗ: v4.7.5\nΠαρακαλούμε ενημερώστε την εφαρμογή μέσω του Google Play Store, προκειμένου να συνεχίσετε να απολαμβάνετε νέο υλικό!",
-      "Version": "4.7.5"
+      "Version": "4.7.6"
     }
   ],
   "Rating": [
