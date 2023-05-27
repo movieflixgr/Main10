@@ -9,7 +9,7 @@
       "showAdsMobile": true,
       "isLiveTV": true,
       "isWorkingTV": true,
-      "showAdsTV": false,
+      "showAdsTV": true,
       "Message": "ΝΕΑ ΕΝΗΜΕΡΩΣΗ ΔΙΑΘΕΣΙΜΗ: v4.7.7\nΠαρακαλούμε ενημερώστε την εφαρμογή μέσω του Google Play Store, προκειμένου να συνεχίσετε να απολαμβάνετε νέο υλικό!",
       "Version": "4.7.7"
     }
