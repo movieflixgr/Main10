@@ -13,7 +13,7 @@
       "promoteUrl": "",
       "isLiveTV": true,
       "isWorkingTV": true,
-      "showAdsTV": false,
+      "showAdsTV": true, 
       "Message": "ΝΕΑ ΕΝΗΜΕΡΩΣΗ ΔΙΑΘΕΣΙΜΗ: v4.8.0\nΠαρακαλούμε ενημερώστε την εφαρμογή μέσω του Google Play Store, προκειμένου να συνεχίσετε να απολαμβάνετε νέο υλικό!",
       "Version": "4.8.0"
     }
