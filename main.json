@@ -2,9 +2,9 @@
   "Status": [
     {
       "isLive": true,
-      "isWorking": true, 
-      "isTest": true,
-      "isLiveMobile": true, 
+      "isWorking": true,
+      "isTest": false,
+      "isLiveMobile": true,
       "MoreUrl": "https://i.ibb.co/DtDR2cp/More.jpg",
       "isWorkingMobile": true,
       "showAdsMobile": true,
@@ -13,7 +13,7 @@
       "promoteUrl": "",
       "isLiveTV": true,
       "isWorkingTV": true,
-      "showAdsTV": true, 
+      "showAdsTV": true,
       "Message": "ΝΕΑ ΕΝΗΜΕΡΩΣΗ ΔΙΑΘΕΣΙΜΗ: v4.8.1\nΠαρακαλούμε ενημερώστε την εφαρμογή μέσω του Google Play Store, προκειμένου να συνεχίσετε να απολαμβάνετε νέο υλικό!",
       "Version": "4.8.1",
       "minVersion": "0.1",
@@ -33,55 +33,63 @@
   "Movies": [
     {
       "Title": "Ξένες Ταινίες \n (Με Ελληνικούς Υπότιτλους)",
-      "Image": "https://www.whats-on-netflix.com/wp-content/uploads/2021/08/netflix-library-photo-scaled.jpg",
+      "Image": "https://i.ibb.co/f1wQDRV/image.png",
+      "Image2": "https://www.whats-on-netflix.com/wp-content/uploads/2021/08/netflix-library-photo-scaled.jpg",
       "JSON": "https://movieflixgr.github.io/KTMY/main.json",
-      "isUnlocked": true
+      "isUnlocked": false
     },
     {
       "Title": "Ελληνικές Ταινίες \n (Σύγχρονες)",
-      "Image": "https://www.lifo.gr/sites/default/files/styles/lifo_lightbox_open/public/articles/2021-07-22/ertflix1.PNG?itok=BrIugAog",
+      "Image": "https://i.ibb.co/f1wQDRV/image.png",
+      "Image2": "https://www.lifo.gr/sites/default/files/styles/lifo_lightbox_open/public/articles/2021-07-22/ertflix1.PNG?itok=BrIugAog",
       "JSON": "https://movieflixgr.github.io/ET/main.json",
-      "isUnlocked": true
+      "isUnlocked": false
     },
     {
       "Title": "Ελληνικές Ταινίες \n (Παλιός Κινηματογράφος)",
-      "Image": "https://www.flowmagazine.gr/wp-content/uploads/o_palios_ellinikos_kinimatografos_featured.jpg",
+      "Image": "https://i.ibb.co/f1wQDRV/image.png",
+      "Image2": "https://www.flowmagazine.gr/wp-content/uploads/o_palios_ellinikos_kinimatografos_featured.jpg",
       "JSON": "https://movieflixgr.github.io/EPT/main.json",
-      "isUnlocked": true
+      "isUnlocked": false
     }
   ],
   "Series": [
     {
       "Title": "Ξένες Σειρές \n (Με Ελληνικούς Υπότιτλους)",
-      "Image": "https://offloadmedia.feverup.com/secretldn.com/wp-content/uploads/2020/03/18074959/72354623_743029929493734_4704406170316788179_n-1024x912.jpg",
+      "Image": "https://i.ibb.co/f1wQDRV/image.png",
+      "Image2": "https://offloadmedia.feverup.com/secretldn.com/wp-content/uploads/2020/03/18074959/72354623_743029929493734_4704406170316788179_n-1024x912.jpg",
       "JSON": "https://movieflixgr.github.io/KSMY/main.json",
-      "isUnlocked": true
+      "isUnlocked": false
     },
     {
       "Title": "Ελληνικές Σειρές",
-      "Image": "https://youfly.com/wp-content/uploads/2022/06/ellinikes-seires-2022-2023-1.jpg",
+      "Image": "https://i.ibb.co/f1wQDRV/image.png",
+      "Image2": "https://youfly.com/wp-content/uploads/2022/06/ellinikes-seires-2022-2023-1.jpg",
       "JSON": "https://movieflixgr.github.io/ES/main.json",
-      "isUnlocked": true
+      "isUnlocked": false
     },
     {
       "Title": "Ελληνικές Τηλεοπτικές Σειρές",
-      "Image": "https://mikrofwno.gr/wp-content/uploads/2021/09/seires-2021-2022-mikrofwno-3.jpg",
+      "Image": "https://i.ibb.co/f1wQDRV/image.png",
+      "Image2": "https://mikrofwno.gr/wp-content/uploads/2021/09/seires-2021-2022-mikrofwno-3.jpg",
       "JSON": "https://movieflixgr.github.io/ETS/main.json",
-      "isUnlocked": true
+      "isUnlocked": false
     }
   ],
   "Kids": [
     {
       "Title": "Μεταγλωτισμένες Παιδικές Ταίνιες",
-      "Image": "https://i.pinimg.com/736x/17/98/f0/1798f0e79d761c7d2b3b169e8f36d4cc.jpg",
+      "Image": "https://i.ibb.co/f1wQDRV/image.png",
+      "Image2": "https://i.pinimg.com/736x/17/98/f0/1798f0e79d761c7d2b3b169e8f36d4cc.jpg",
       "JSON": "https://movieflixgr.github.io/MPT/main.json",
-      "isUnlocked": true
+      "isUnlocked": false
     },
     {
       "Title": "Μεταγλωτισμένες Παιδικές Σειρές",
-      "Image": "https://deadline.com/wp-content/uploads/2022/11/MH_Clean.jpg",
+      "Image": "https://i.ibb.co/f1wQDRV/image.png",
+      "Image2": "https://deadline.com/wp-content/uploads/2022/11/MH_Clean.jpg",
       "JSON": "https://movieflixgr.github.io/MPS/main.json",
-      "isUnlocked": true
+      "isUnlocked": false
     },
     {
       "Title": "Παιδικά YouTube Κανάλια",
