@@ -8,9 +8,15 @@
       "MoreUrl": "https://i.ibb.co/DtDR2cp/More.jpg",
       "isWorkingMobile": true,
       "showAdsMobile": true,
-      "promote": false,
+      
+      "promote": true,
+      "promoteTitle": "MovieFlix Update Available",
+      "promoteImageUrl": "https://images.pexels.com/photos/2749481/pexels-photo-2749481.jpeg?cs=srgb&dl=pexels-nicole-avagliano-2749481.jpg&fm=jpg",
+      "promoteButtonTitle": "Download Now!",
+      "promoteUrl": "https://www.filmxy.vip/",
+      "promoteNotes": "*Keep in mind that...",
+      
       "promoteMessage": "",
-      "promoteUrl": "",
       "isLiveTV": true,
       "isWorkingTV": true,
       "showAdsTV": true,
