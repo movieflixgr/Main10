@@ -9,9 +9,9 @@
       "isWorkingMobile": true,
       "showAdsMobile": true,
       
-      "promote": true,
+      "promote": false,
       "promoteTitle": "MovieFlix Update Available",
-      "promoteImageUrl": "sadaddsd",
+      "promoteImageUrl": "",
       "promoteButtonTitle": "Download Now!",
       "promoteUrl": "https://www.filmxy.vip/",
       "promoteNotes": "*Keep in mind that...",
