@@ -9,6 +9,8 @@
       "isWorkingMobile": true,
       "showAdsMobile": true,
       
+      "isActivationRequired": true,
+      
       "promote": false,
       "promoteTitle": "MovieFlix Update Available",
       "promoteImageUrl": "",
