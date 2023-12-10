@@ -8,16 +8,13 @@
       "MoreUrl": "https://i.ibb.co/DtDR2cp/More.jpg",
       "isWorkingMobile": true,
       "showAdsMobile": true,
-      
       "isActivationRequired": true,
-      
       "promote": false,
       "promoteTitle": "MovieFlix Update Available",
       "promoteImageUrl": "",
       "promoteButtonTitle": "Download Now!",
       "promoteUrl": "https://www.filmxy.vip/",
       "promoteNotes": "*Keep in mind that...",
-      
       "promoteMessage": "",
       "isLiveTV": true,
       "isWorkingTV": true,
@@ -124,6 +121,14 @@
       "EndString": "',",
       "Start": 8,
       "End": 0
+    }
+  ],
+  "Standard": [
+    {
+      "TV": "MediaFire",
+      "Movies": "",
+      "Series": "media",
+      "Kids": "https://download"
     }
   ]
 }
