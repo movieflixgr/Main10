@@ -125,26 +125,10 @@
   ],
   "Standard": [
     {
-      "TV": [
-        {
-          "Url": "MediaFire"
-        }
-      ],
-      "Movies": [
-        {
-          "Url": ""
-        }
-      ],
-      "Series": [
-        {
-          "Url": "media"
-        }
-      ],
-      "Kids": [
-        {
-          "Url": "https://download"
-        }
-      ]
+      "TV": "MediaFire",
+      "Movies": "",
+      "Series": "media",
+      "Kids": "https://download"
     }
   ]
 }
