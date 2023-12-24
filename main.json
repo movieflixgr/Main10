@@ -41,7 +41,7 @@
       "Image": "https://i.ibb.co/f1wQDRV/image.png",
       "Image2": "https://www.whats-on-netflix.com/wp-content/uploads/2021/08/netflix-library-photo-scaled.jpg",
       "JSON": "https://movieflixgr.github.io/KTMY/main.json",
-      "isUnlocked": false
+      "isUnlocked": true
     },
     {
       "Title": "Ελληνικές Ταινίες \n (Σύγχρονες)",
@@ -87,7 +87,7 @@
       "Image": "https://i.ibb.co/f1wQDRV/image.png",
       "Image2": "https://i.pinimg.com/736x/17/98/f0/1798f0e79d761c7d2b3b169e8f36d4cc.jpg",
       "JSON": "https://movieflixgr.github.io/MPT/main.json",
-      "isUnlocked": false
+      "isUnlocked": true
     },
     {
       "Title": "Μεταγλωτισμένες Παιδικές Σειρές",
