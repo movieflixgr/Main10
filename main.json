@@ -45,15 +45,15 @@
     },
     {
       "Title": "Ελληνικές Ταινίες \n (Σύγχρονες)",
-      "Image": "https://i.ibb.co/f1wQDRV/image.png",
-      "Image2": "https://www.lifo.gr/sites/default/files/styles/lifo_lightbox_open/public/articles/2021-07-22/ertflix1.PNG?itok=BrIugAog",
+      "Image2": "https://i.ibb.co/f1wQDRV/image.png",
+      "Image": "https://www.lifo.gr/sites/default/files/styles/lifo_lightbox_open/public/articles/2021-07-22/ertflix1.PNG?itok=BrIugAog",
       "JSON": "https://movieflixgr.github.io/ET/main.json",
       "isUnlocked": true
     },
     {
       "Title": "Ελληνικές Ταινίες \n (Παλιός Κινηματογράφος)",
-      "Image2": "https://i.ibb.co/f1wQDRV/image.png",
-      "Image1": "https://www.flowmagazine.gr/wp-content/uploads/o_palios_ellinikos_kinimatografos_featured.jpg",
+      "Image": "https://i.ibb.co/f1wQDRV/image.png",
+      "Image2": "https://www.flowmagazine.gr/wp-content/uploads/o_palios_ellinikos_kinimatografos_featured.jpg",
       "JSON": "https://movieflixgr.github.io/EPT/main.json",
       "isUnlocked": false
     }
