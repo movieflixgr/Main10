@@ -48,14 +48,14 @@
       "Image2": "https://i.ibb.co/f1wQDRV/image.png",
       "Image": "https://urbanlife.gr/wp-content/uploads/2020/11/BeFunky-collage-scaled-e1604316199306.jpg",
       "JSON": "https://movieflixgr.github.io/ET/main.json",
-      "isUnlocked": false
+      "isUnlocked": true
     },
     {
       "Title": "Ελληνικές Ταινίες \n (Παλιός Κινηματογράφος)",
       "Image2": "https://i.ibb.co/f1wQDRV/image.png",
       "Image": "https://www.flowmagazine.gr/wp-content/uploads/o_palios_ellinikos_kinimatografos_featured.jpg",
       "JSON": "https://movieflixgr.github.io/EPT/main.json",
-      "isUnlocked": false
+      "isUnlocked": true
     }
   ],
   "Series": [
@@ -64,21 +64,21 @@
       "Image": "https://i.ibb.co/f1wQDRV/image.png",
       "Image2": "https://offloadmedia.feverup.com/secretldn.com/wp-content/uploads/2020/03/18074959/72354623_743029929493734_4704406170316788179_n-1024x912.jpg",
       "JSON": "https://movieflixgr.github.io/KSMY/main.json",
-      "isUnlocked": false
+      "isUnlocked": true
     },
     {
       "Title": "Ελληνικές Σειρές",
       "Image": "https://i.ibb.co/f1wQDRV/image.png",
       "Image2": "https://youfly.com/wp-content/uploads/2022/06/ellinikes-seires-2022-2023-1.jpg",
       "JSON": "https://movieflixgr.github.io/ES/main.json",
-      "isUnlocked": false
+      "isUnlocked": true
     },
     {
       "Title": "Ελληνικές Τηλεοπτικές Σειρές",
       "Image": "https://i.ibb.co/f1wQDRV/image.png",
       "Image2": "https://mikrofwno.gr/wp-content/uploads/2021/09/seires-2021-2022-mikrofwno-3.jpg",
       "JSON": "https://movieflixgr.github.io/ETS/main.json",
-      "isUnlocked": false
+      "isUnlocked": true
     }
   ],
   "Kids": [
@@ -87,14 +87,14 @@
       "Image2": "https://i.ibb.co/f1wQDRV/image.png",
       "Image": "https://i.pinimg.com/736x/17/98/f0/1798f0e79d761c7d2b3b169e8f36d4cc.jpg",
       "JSON": "https://movieflixgr.github.io/MPT/main.json",
-      "isUnlocked": false
+      "isUnlocked": true
     },
     {
       "Title": "Μεταγλωττισμένες Παιδικές Σειρές",
       "Image": "https://i.ibb.co/f1wQDRV/image.png",
       "Image2": "https://deadline.com/wp-content/uploads/2022/11/MH_Clean.jpg",
       "JSON": "https://movieflixgr.github.io/MPS/main.json",
-      "isUnlocked": false
+      "isUnlocked": true
     },
     {
       "Title": "Παιδικά YouTube Κανάλια",
