@@ -1,7 +1,7 @@
 {
   "Status": [
     {
-      "isLive": true,
+      "isLive": false,
       "isWorking": true,
       "isTest": false,
       "isLiveMobile": true,
@@ -19,7 +19,7 @@
       "isLiveTV": true,
       "isWorkingTV": true,
       "showAdsTV": true,
-      "Message": "Η εφαρμογή MovieFlix επανακυκλοφόρησε!\nΕγκαταστήστε δωρεάν την νέα ολοκαίνουργια εφαρμογή \"MovieFlix: Live TV & Movies\" αναζητώντας την στο Google Play Store.\nΜην ξεχάσετε να μας αφήσετε μία αξιολόγηση!\nΚαλή διασκέδαση!",
+      "Message": "Η εφαρμογή MovieFlix επανακυκλοφόρησε!\nΕγκαταστήστε δωρεάν την νέα ολοκαίνουργια εφαρμογή \"MovieFlix: TV, Ταινίες, Σειρές\" αναζητώντας την στο Google Play Store.\nΜην ξεχάσετε να μας αφήσετε μία αξιολόγηση!\nΚαλή διασκέδαση!",
       "Version": "4.8.1",
       "minVersion": "1.0.0",
       "maxVersion": "1.0.0"
