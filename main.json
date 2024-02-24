@@ -9,7 +9,7 @@
       "isWorkingMobile": true,
       "showAdsMobile": true,
       "isActivationRequired": true,
-      "promote": true,
+      "promote": false,
       "promoteTitle": "MovieFlix Update Available",
       "promoteImageUrl": "",
       "promoteButtonTitle": "Download Now!",
@@ -20,7 +20,7 @@
       "isWorkingTV": true,
       "showAdsTV": true,
       "Message": "Η εφαρμογή MovieFlix επανακυκλοφόρησε!\nΕγκαταστήστε δωρεάν την νέα ολοκαίνουργια εφαρμογή \"MovieFlix: TV, Ταινίες, Σειρές\" αναζητώντας την στο Google Play Store.\nΜην ξεχάσετε να μας αφήσετε μία αξιολόγηση!\nΚαλή διασκέδαση!",
-      "Version": "4.8.1",
+      "Version": "4.8.2",
       "minVersion": "1.0.0",
       "maxVersion": "1.0.0"
     }
