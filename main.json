@@ -20,9 +20,9 @@
       "isWorkingTV": true,
       "showAdsTV": true,
       "Message": "Η εφαρμογή MovieFlix επανακυκλοφόρησε!\nΕγκαταστήστε δωρεάν την ολοκαίνουργια εφαρμογή \"MovieFlix: TV, Ταινίες, Σειρές\" αναζητώντας την στο Google Play Store.\nΜην ξεχάσετε να μας αφήσετε μία αξιολόγηση!\nΚαλή διασκέδαση!",
-      "Version": "1.0.0",
+      "Version": "4.8.1",
       "minVersion": "1.0.0",
-      "maxVersion": "3.0.0"
+      "maxVersion": "5.0.0"
     }
   ],
   "Rating": [
